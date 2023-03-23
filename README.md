@@ -3,6 +3,8 @@ Be fast and kill the duck if you can!
 
 This project was made with aim of putting into practice my solid knowledge about Typescrit, ReactJs with Greensock (GSAP)
 
+https://shot-duck.bohr.io
+
 ## :wrench: Technologies
 * React JS
 * Typescript
